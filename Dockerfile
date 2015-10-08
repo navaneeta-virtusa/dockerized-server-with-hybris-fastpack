@@ -1,5 +1,7 @@
 FROM ubuntu:14.04
 
+MAINTAINER Reinahrd Brandstaedter, reinhard.brandstaedter@dynatrace.com
+
 RUN apt-get update \
 	&& apt-get install -y wget \
 	&& rm -rf /var/lib/apt/lists
