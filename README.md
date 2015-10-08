@@ -16,5 +16,5 @@ Please note that you will need a Dynatrace License to use connect applications t
 If you haven't got one you can get a trial license from:
 http://bit.ly/hybrisapm
 
-## Application Performance Management for hybris eCommerce
+## APM for hybris eCommerce
 To learn what you can do with your dockerized Dynatrace Application Performance Management and how you get insight into your hybris eCommerce platform visit http://bit.ly/hybrisapm
